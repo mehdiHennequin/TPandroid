@@ -10,12 +10,13 @@ public class NameViewHolder extends RecyclerView.ViewHolder {
         super(itemView);
     }
 
-    String name;
     TextView textViewName;
+    String name;
+
 
     public void setContent(String name){
         //
-
+        textViewName = textViewName.findViewById(R.id.activity_main_text);
         this.name = name;
         textViewName.setText(name);
     }
