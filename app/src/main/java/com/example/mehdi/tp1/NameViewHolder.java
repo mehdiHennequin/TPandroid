@@ -16,7 +16,7 @@ public class NameViewHolder extends RecyclerView.ViewHolder {
 
     public void setContent(String name){
         //
-        textViewName = textViewName.findViewById(R.id.activity_main_text);
+        textViewName = findViewById(R.id.activity_main_text);
         this.name = name;
         textViewName.setText(name);
     }
