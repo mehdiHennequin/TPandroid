@@ -2,4 +2,10 @@
 <resources>
     <string name="app_name">tp1</string>
     <string name="buttontest">texte</string>
+    <string name="activity_main_msg">Bienvenue</string>
+    <string name="activity_main_button">EditFR</string>
+    <string name="activity_edit_editText">NameFR</string>
+    <string name="activity_edit_valide">OKFR</string>
+    <string name="activity_edit_label">NameFR:</string>
+    <string name="activity_main_name" translatable="false">zidane</string>
 </resources>

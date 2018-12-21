@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">tp1</string>
     <string name="buttontest">text</string>
+    <string name="activity_main_msg">WelcomeTeacherGive me a good marque</string>
+    <string name="activity_main_button">EditEnglish</string>
+    <string name="activity_edit_editText">NameEnglish</string>
+    <string name="activity_edit_valide">OKEnglish</string>
+    <string name="activity_edit_label">NameEnglish:</string>
+    <string name="activity_main_name" translatable="false">zidane</string>
 </resources>
